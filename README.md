@@ -9,8 +9,7 @@ The SSD explains in detail how WordPress authentication is off-loaded to the org
 
 | File | Description |
 |------|-------------|
-| **WordPress SSO Integration SSD.md** | The full, image-free Solution Design Document (version 1.0, updated 27 Sep 2024) |
-| docs/ | _(optional)_ Put any future diagrams or supplementary notes here. |
+| **WordPress SSO Integration SSD.pdf** | PDF of the Solution Design Document (version 1.0, updated 27 Sep 2024) |
 
 ---
 
