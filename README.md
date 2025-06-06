@@ -24,13 +24,6 @@ See the SSD for the complete context diagram, error-handling matrix, role-mappin
 
 ---
 
-## How to view the document
-
-1. Open **WordPress SSO Integration SSD.md** right here on GitHub—Markdown renders automatically.  
-2. If you prefer an offline copy, click **Raw** → **Save as…** to download it.
-
----
-
 ## License
 
 The design is shared under the MIT License. See `LICENSE` for details.
